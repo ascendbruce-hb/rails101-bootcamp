@@ -1,4 +1,8 @@
-For practice
+# For practice
+
+This repo is the template for my rails boot camp.
+
+The project objectives are based on the book [Rails 101](https://leanpub.com/rails-101)
 
 # Install
 
